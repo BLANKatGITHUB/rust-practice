@@ -1,0 +1,1 @@
+/home/Blanky/coding/rust/modules/fact/target/debug/fact: /home/Blanky/coding/rust/modules/fact/src/factorial.rs /home/Blanky/coding/rust/modules/fact/src/lib.rs /home/Blanky/coding/rust/modules/fact/src/main.rs
